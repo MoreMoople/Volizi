@@ -1,2 +1,2 @@
 # Volizi
-A web application for a fictional car brand, Volitzi 
+A web application for a fictional car brand, Volizi 
